@@ -41,8 +41,8 @@ module.exports = appInfo => {
 
   // 公众号配置
   config.wx = {
-    appId: 'wx6a908ab36533ea40',
-    appSecret: '76d09eb43886a44cf2bb993c99206934',
+    appId: 'wxcc1fd05322569c2d',
+    appSecret: 'da382e1547a64ceb35329c3b691f982b',
     token: 'junetext',
     template_id: 'z864JohHWpBSFdsoz-6lVx8r0kS_v0LIYYJ7TEzrupg', // 推送的模板id
     user: 'wx6a908ab36533ea40', // 并非推送用户, 填appid就行了
